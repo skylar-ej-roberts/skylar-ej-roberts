@@ -1,18 +1,11 @@
 # Skylar-Roberts--README 
-##  🌟 Hi, I’m Skylar, a Finance and FinTech student at Queens College who enjoys building data-driven projects and learning by doing.
+# Skylar Roberts | Data Engineer
+##  Aspiring Data Engineer with hands-on experience in analyzing data and building LLMS. I focus on clean code, Data Pipelines, and lifetime learning.
 
-### 📊 I like turning data into useful insights through Python, NumPy, pandas, and machine learning.
-
-### 💡 I enjoy working on projects that connect finance, analytics, and technology.
-
-### 🤖💻  I’m currently learning machine learning through Break Through Tech while building technical and problem-solving skills.
-
-### 🧠 My experience includes valuation analysis, sustainability research, and organizing data for real-world use cases.
-
-### 🤝 I’m especially interested in becoming a Data Scientist so I am seeking opportunities in machine learning, software, and finance/data roles.
+## Incoming Bachelors of Business Adminsteration in Finance with Fintech Concentration at Queens College
 
 
-# 🛠 Tech Stack:
+# 🛠 Technical Skills:
 ### Languages: Python,
 ### Data Science: Pandas, NumPy, scikit-learn, TensorFlow
 ### Tools: Jupyter Notebooks, Google Colab, GitHub
