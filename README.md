@@ -16,8 +16,7 @@
 ## 🧪 Projects:
 ### 🔜 Coming Soon From Fall 2026- Spring 2027 with Projects Associated with Break Through Tech 
 ### | 📁 Project | 📝 Description | ⚙️ Tech |
-### | --- | --- | --- |
-### | GitHub Repo | .... | Python, ... |
+### | GitHub Repo | ............ | Python, ... |
 # -------------------------------------------------------------------
 #  📈 Github Highlights
 ## ⏳ Coming Soon!
