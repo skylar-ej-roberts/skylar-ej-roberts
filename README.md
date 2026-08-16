@@ -1,5 +1,5 @@
 #  👋 Skylar Roberts | Data Engineer
-## 🧠 Aspiring Data Engineer with hands-on experience in analyzing data and building LLMS. I focus on clean code, Data Pipelines, and lifetime learning.
+## 🧠 Aspiring Data Engineer with hands-on experience in analyzing data and building LLMS. I focus on clean code, data pipelines, and lifetime learning.
 ### 🎓 Incoming BBA in Finance with Fintech Concentration at Queens College
 ### 🔍 Interests: Data Engineering, Data Science, Machine Learning, Financial Technology 
 ### 📚 Currently Learning: Python For Data science, Python Data Structures, SQL
